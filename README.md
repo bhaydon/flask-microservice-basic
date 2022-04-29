@@ -1,5 +1,5 @@
 
-# flask-change-microservice
+# flask-microservice-basic
 Small Flask Microservice that makes change based on input indicating monetary amount
 (Bruce Haydon)
 
