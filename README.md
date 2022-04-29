@@ -1,6 +1,7 @@
 
 # flask-change-microservice
-Small Flask Microservice that makes change
+Small Flask Microservice that makes change based on input indicating monetary amount
+(Bruce Haydon)
 
 
 
